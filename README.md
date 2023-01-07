@@ -59,4 +59,5 @@ Kets and bras can also be combined to form operators, which are linear maps that
 ## Ref
 - https://en.wikipedia.org/wiki/Bra%E2%80%93ket_notation
 - https://www.mathsisfun.com/physics/bra-ket-notation.html
-- 
+- http://vergil.chemistry.gatech.edu/notes/intro_estruc/intro_estruc.html
+
